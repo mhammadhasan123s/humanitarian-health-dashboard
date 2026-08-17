@@ -1,0 +1,22 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Personal files
+PORTFOLIO_PROJECT_COMPLETE*
+
+# Large files (optional)
+*.pbix

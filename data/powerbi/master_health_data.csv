@@ -1,0 +1,196 @@
+country_name,country_code,region,year,under_5_mortality_rate,life_expectancy,tuberculosis_incidence,health_status
+"Somalia, Fed. Rep.",SOM,,2010,16.617,48.9,220.0,Critical
+"Somalia, Fed. Rep.",SOM,,2011,32.124,32.453,204.0,Critical
+"Somalia, Fed. Rep.",SOM,,2012,16.102,49.138,192.0,Critical
+"Somalia, Fed. Rep.",SOM,,2013,12.893,54.016,187.0,Critical
+"Somalia, Fed. Rep.",SOM,,2014,12.637,54.442,188.0,Critical
+"Somalia, Fed. Rep.",SOM,,2015,12.292,55.056,187.0,Critical
+"Somalia, Fed. Rep.",SOM,,2016,12.054,55.283,184.0,Critical
+"Somalia, Fed. Rep.",SOM,,2017,14.073,52.19,182.0,Critical
+"Somalia, Fed. Rep.",SOM,,2018,12.391,54.767,179.0,Critical
+"Somalia, Fed. Rep.",SOM,,2019,10.908,57.249,175.0,Critical
+"Somalia, Fed. Rep.",SOM,,2020,10.834,57.095,171.0,Critical
+"Somalia, Fed. Rep.",SOM,,2021,11.3,55.703,167.0,Critical
+"Somalia, Fed. Rep.",SOM,,2022,12.812,53.931,162.0,Critical
+"Yemen, Rep.",YEM,,2010,5.586,67.223,45.0,Moderate
+"Yemen, Rep.",YEM,,2011,5.474,67.412,42.0,Moderate
+"Yemen, Rep.",YEM,,2012,5.425,67.569,47.0,Moderate
+"Yemen, Rep.",YEM,,2013,5.294,67.961,48.0,Moderate
+"Yemen, Rep.",YEM,,2014,5.29,68.003,43.0,Moderate
+"Yemen, Rep.",YEM,,2015,5.773,66.761,33.0,Moderate
+"Yemen, Rep.",YEM,,2016,5.647,67.105,40.0,Moderate
+"Yemen, Rep.",YEM,,2017,5.644,67.12,40.0,Moderate
+"Yemen, Rep.",YEM,,2018,6.114,65.915,39.0,High
+"Yemen, Rep.",YEM,,2019,5.859,66.567,39.0,Moderate
+"Yemen, Rep.",YEM,,2020,5.832,66.435,33.0,Moderate
+"Yemen, Rep.",YEM,,2021,5.953,66.019,34.0,Moderate
+"Yemen, Rep.",YEM,,2022,5.232,67.952,36.0,Moderate
+Burundi,BDI,East Africa,2010,10.509,57.088,154.0,Critical
+Burundi,BDI,East Africa,2011,10.072,57.804,148.0,Critical
+Burundi,BDI,East Africa,2012,9.601,58.501,142.0,Critical
+Burundi,BDI,East Africa,2013,9.201,59.179,136.0,Critical
+Burundi,BDI,East Africa,2014,8.845,59.764,130.0,Critical
+Burundi,BDI,East Africa,2015,8.688,60.107,124.0,Critical
+Burundi,BDI,East Africa,2016,8.209,60.789,118.0,Critical
+Burundi,BDI,East Africa,2017,7.864,61.345,112.0,High
+Burundi,BDI,East Africa,2018,7.559,61.806,106.0,High
+Burundi,BDI,East Africa,2019,7.394,62.18,102.0,High
+Burundi,BDI,East Africa,2020,7.191,62.569,97.0,High
+Burundi,BDI,East Africa,2021,7.306,62.101,93.0,High
+Burundi,BDI,East Africa,2022,6.997,62.882,89.0,High
+Ethiopia,ETH,East Africa,2010,8.98,59.709,269.0,Critical
+Ethiopia,ETH,East Africa,2011,8.534,60.595,253.0,Critical
+Ethiopia,ETH,East Africa,2012,8.118,61.443,238.0,Critical
+Ethiopia,ETH,East Africa,2013,7.78,62.161,224.0,High
+Ethiopia,ETH,East Africa,2014,7.461,62.927,211.0,High
+Ethiopia,ETH,East Africa,2015,7.206,63.592,200.0,High
+Ethiopia,ETH,East Africa,2016,6.999,64.162,189.0,High
+Ethiopia,ETH,East Africa,2017,6.786,64.766,179.0,High
+Ethiopia,ETH,East Africa,2018,6.631,65.257,170.0,High
+Ethiopia,ETH,East Africa,2019,6.481,65.741,163.0,High
+Ethiopia,ETH,East Africa,2020,6.403,65.969,156.0,High
+Ethiopia,ETH,East Africa,2021,6.638,65.33,151.0,High
+Ethiopia,ETH,East Africa,2022,6.093,66.897,146.0,High
+Kenya,KEN,East Africa,2010,7.424,60.915,531.0,High
+Kenya,KEN,East Africa,2011,7.275,61.283,506.0,High
+Kenya,KEN,East Africa,2012,7.208,61.537,471.0,High
+Kenya,KEN,East Africa,2013,7.175,61.729,443.0,High
+Kenya,KEN,East Africa,2014,7.149,61.99,423.0,High
+Kenya,KEN,East Africa,2015,7.14,62.279,380.0,High
+Kenya,KEN,East Africa,2016,7.169,62.526,348.0,High
+Kenya,KEN,East Africa,2017,7.126,62.725,319.0,High
+Kenya,KEN,East Africa,2018,7.186,62.825,292.0,High
+Kenya,KEN,East Africa,2019,7.294,62.939,267.0,High
+Kenya,KEN,East Africa,2020,7.937,61.596,248.0,High
+Kenya,KEN,East Africa,2021,8.124,61.225,247.0,Critical
+Kenya,KEN,East Africa,2022,7.212,63.549,238.0,High
+Rwanda,RWA,East Africa,2010,7.347,62.804,82.0,High
+Rwanda,RWA,East Africa,2011,7.043,63.476,76.0,High
+Rwanda,RWA,East Africa,2012,6.759,64.189,72.0,High
+Rwanda,RWA,East Africa,2013,6.598,64.651,70.0,High
+Rwanda,RWA,East Africa,2014,6.478,65.088,68.0,High
+Rwanda,RWA,East Africa,2015,6.401,65.419,66.0,High
+Rwanda,RWA,East Africa,2016,6.336,65.733,65.0,High
+Rwanda,RWA,East Africa,2017,6.234,66.14,65.0,High
+Rwanda,RWA,East Africa,2018,6.206,66.354,64.0,High
+Rwanda,RWA,East Africa,2019,6.132,66.691,63.0,High
+Rwanda,RWA,East Africa,2020,6.089,66.953,63.0,High
+Rwanda,RWA,East Africa,2021,6.185,66.85,63.0,High
+Rwanda,RWA,East Africa,2022,5.993,67.528,62.0,Moderate
+Uganda,UGA,East Africa,2010,8.263,59.959,210.0,Critical
+Uganda,UGA,East Africa,2011,7.824,60.791,207.0,High
+Uganda,UGA,East Africa,2012,7.419,61.579,205.0,High
+Uganda,UGA,East Africa,2013,7.038,62.353,203.0,High
+Uganda,UGA,East Africa,2014,6.699,63.057,202.0,High
+Uganda,UGA,East Africa,2015,6.372,63.831,202.0,High
+Uganda,UGA,East Africa,2016,6.073,64.494,201.0,High
+Uganda,UGA,East Africa,2017,5.82,65.174,201.0,Moderate
+Uganda,UGA,East Africa,2018,5.613,65.775,200.0,Moderate
+Uganda,UGA,East Africa,2019,5.42,66.354,200.0,Moderate
+Uganda,UGA,East Africa,2020,5.373,66.41,199.0,Moderate
+Uganda,UGA,East Africa,2021,5.339,66.45,199.0,Moderate
+Uganda,UGA,East Africa,2022,5.035,67.675,198.0,Moderate
+Syrian Arab Republic,SYR,Middle East,2010,3.824,73.542,30.0,Moderate
+Syrian Arab Republic,SYR,Middle East,2011,4.334,72.259,29.0,Moderate
+Syrian Arab Republic,SYR,Middle East,2012,6.829,66.206,24.0,High
+Syrian Arab Republic,SYR,Middle East,2013,7.514,65.146,23.0,High
+Syrian Arab Republic,SYR,Middle East,2014,7.353,65.492,31.0,High
+Syrian Arab Republic,SYR,Middle East,2015,8.223,63.265,26.0,Critical
+Syrian Arab Republic,SYR,Middle East,2016,7.323,65.19,27.0,High
+Syrian Arab Republic,SYR,Middle East,2017,7.246,65.651,24.0,High
+Syrian Arab Republic,SYR,Middle East,2018,6.544,67.371,22.0,High
+Syrian Arab Republic,SYR,Middle East,2019,5.284,70.97,21.0,Moderate
+Syrian Arab Republic,SYR,Middle East,2020,5.058,71.944,20.0,Moderate
+Syrian Arab Republic,SYR,Middle East,2021,4.964,72.418,24.0,Moderate
+Syrian Arab Republic,SYR,Middle East,2022,4.773,72.79,22.0,Moderate
+Afghanistan,AFG,South Asia,2010,8.402,60.702,218.0,Critical
+Afghanistan,AFG,South Asia,2011,8.032,61.25,204.0,Critical
+Afghanistan,AFG,South Asia,2012,7.822,61.735,194.0,High
+Afghanistan,AFG,South Asia,2013,7.597,62.188,194.0,High
+Afghanistan,AFG,South Asia,2014,7.511,62.26,197.0,High
+Afghanistan,AFG,South Asia,2015,7.528,62.27,200.0,High
+Afghanistan,AFG,South Asia,2016,7.32,62.646,204.0,High
+Afghanistan,AFG,South Asia,2017,7.315,62.406,209.0,High
+Afghanistan,AFG,South Asia,2018,7.271,62.443,212.0,High
+Afghanistan,AFG,South Asia,2019,7.064,62.941,213.0,High
+Afghanistan,AFG,South Asia,2020,7.565,61.454,205.0,High
+Afghanistan,AFG,South Asia,2021,8.002,60.417,206.0,Critical
+Afghanistan,AFG,South Asia,2022,5.993,65.617,206.0,Moderate
+Pakistan,PAK,South Asia,2010,7.691,64.378,276.0,High
+Pakistan,PAK,South Asia,2011,7.575,64.659,276.0,High
+Pakistan,PAK,South Asia,2012,7.482,64.883,276.0,High
+Pakistan,PAK,South Asia,2013,7.377,65.129,275.0,High
+Pakistan,PAK,South Asia,2014,7.272,65.374,270.0,High
+Pakistan,PAK,South Asia,2015,7.164,65.641,270.0,High
+Pakistan,PAK,South Asia,2016,7.039,65.943,268.0,High
+Pakistan,PAK,South Asia,2017,6.94,66.223,267.0,High
+Pakistan,PAK,South Asia,2018,6.852,66.481,265.0,High
+Pakistan,PAK,South Asia,2019,6.772,66.729,263.0,High
+Pakistan,PAK,South Asia,2020,7.301,65.701,260.0,High
+Pakistan,PAK,South Asia,2021,7.23,65.773,270.0,High
+Pakistan,PAK,South Asia,2022,6.513,67.417,275.0,High
+Myanmar,MMR,Southeast Asia,2010,9.212,63.479,500.0,Critical
+Myanmar,MMR,Southeast Asia,2011,9.125,63.859,476.0,Critical
+Myanmar,MMR,Southeast Asia,2012,9.043,64.251,453.0,Critical
+Myanmar,MMR,Southeast Asia,2013,8.982,64.617,431.0,Critical
+Myanmar,MMR,Southeast Asia,2014,8.92,64.994,411.0,Critical
+Myanmar,MMR,Southeast Asia,2015,8.904,65.288,391.0,Critical
+Myanmar,MMR,Southeast Asia,2016,8.861,65.64,372.0,Critical
+Myanmar,MMR,Southeast Asia,2017,8.855,65.909,355.0,Critical
+Myanmar,MMR,Southeast Asia,2018,8.827,66.232,338.0,Critical
+Myanmar,MMR,Southeast Asia,2019,8.847,66.457,322.0,Critical
+Myanmar,MMR,Southeast Asia,2020,8.994,66.612,316.0,Critical
+Myanmar,MMR,Southeast Asia,2021,9.819,65.553,353.0,Critical
+Myanmar,MMR,Southeast Asia,2022,9.18,66.506,434.0,Critical
+Mozambique,MOZ,Southern Africa,2010,11.543,55.04,357.0,Critical
+Mozambique,MOZ,Southern Africa,2011,11.108,55.733,359.0,Critical
+Mozambique,MOZ,Southern Africa,2012,10.665,56.46,361.0,Critical
+Mozambique,MOZ,Southern Africa,2013,10.233,57.189,361.0,Critical
+Mozambique,MOZ,Southern Africa,2014,9.779,57.965,361.0,Critical
+Mozambique,MOZ,Southern Africa,2015,9.371,58.711,361.0,Critical
+Mozambique,MOZ,Southern Africa,2016,8.984,59.455,361.0,Critical
+Mozambique,MOZ,Southern Africa,2017,8.633,60.148,361.0,Critical
+Mozambique,MOZ,Southern Africa,2018,8.324,60.79,361.0,Critical
+Mozambique,MOZ,Southern Africa,2019,8.078,61.306,361.0,Critical
+Mozambique,MOZ,Southern Africa,2020,8.007,61.39,361.0,Critical
+Mozambique,MOZ,Southern Africa,2021,8.403,60.268,361.0,Critical
+Mozambique,MOZ,Southern Africa,2022,7.255,63.011,361.0,High
+Zimbabwe,ZWE,Southern Africa,2010,12.745,51.925,416.0,Critical
+Zimbabwe,ZWE,Southern Africa,2011,11.694,53.911,384.0,Critical
+Zimbabwe,ZWE,Southern Africa,2012,10.946,55.386,355.0,Critical
+Zimbabwe,ZWE,Southern Africa,2013,10.233,56.842,304.0,Critical
+Zimbabwe,ZWE,Southern Africa,2014,9.621,58.106,278.0,Critical
+Zimbabwe,ZWE,Southern Africa,2015,9.18,58.989,242.0,Critical
+Zimbabwe,ZWE,Southern Africa,2016,8.816,59.76,233.0,Critical
+Zimbabwe,ZWE,Southern Africa,2017,8.587,60.263,221.0,Critical
+Zimbabwe,ZWE,Southern Africa,2018,8.321,60.906,210.0,Critical
+Zimbabwe,ZWE,Southern Africa,2019,8.281,61.06,199.0,Critical
+Zimbabwe,ZWE,Southern Africa,2020,8.138,61.53,189.0,Critical
+Zimbabwe,ZWE,Southern Africa,2021,8.782,60.135,198.0,Critical
+Zimbabwe,ZWE,Southern Africa,2022,7.779,62.36,209.0,High
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,2010,11.654,56.411,500.0,Critical
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,2011,11.367,56.911,490.0,Critical
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,2012,11.113,57.35,480.0,Critical
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,2013,10.844,57.795,471.0,Critical
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,2014,10.595,58.236,461.0,Critical
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,2015,10.349,58.658,452.0,Critical
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,2016,10.076,59.081,443.0,Critical
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,2017,9.867,59.495,434.0,Critical
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,2018,9.647,59.926,426.0,Critical
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,2019,9.46,60.242,417.0,Critical
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,2020,9.31,60.428,409.0,Critical
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,2021,9.38,60.044,401.0,Critical
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,2022,8.93,60.979,392.0,Critical
+Nigeria,NGA,West Africa,2010,14.36,51.315,219.0,Critical
+Nigeria,NGA,West Africa,2011,14.203,51.49,219.0,Critical
+Nigeria,NGA,West Africa,2012,14.019,51.688,219.0,Critical
+Nigeria,NGA,West Africa,2013,13.864,51.827,219.0,Critical
+Nigeria,NGA,West Africa,2014,13.736,51.94,219.0,Critical
+Nigeria,NGA,West Africa,2015,13.656,51.939,219.0,Critical
+Nigeria,NGA,West Africa,2016,13.408,52.189,219.0,Critical
+Nigeria,NGA,West Africa,2017,13.192,52.397,219.0,Critical
+Nigeria,NGA,West Africa,2018,12.952,52.669,219.0,Critical
+Nigeria,NGA,West Africa,2019,12.679,53.009,219.0,Critical
+Nigeria,NGA,West Africa,2020,12.586,53.072,219.0,Critical
+Nigeria,NGA,West Africa,2021,12.306,53.455,219.0,Critical
+Nigeria,NGA,West Africa,2022,11.953,54.079,219.0,Critical

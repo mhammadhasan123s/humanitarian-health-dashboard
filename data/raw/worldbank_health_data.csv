@@ -1,0 +1,46 @@
+Country Name,Country Code,Indicator Name,Indicator Code,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022
+Afghanistan,AFG,Incidence of tuberculosis (per 100000),SH.TBS.INCD,218.0,204.0,194.0,194.0,197.0,200.0,204.0,209.0,212.0,213.0,205.0,206.0,206.0
+Afghanistan,AFG,Life expectancy at birth (years),SP.DYN.LE00.IN,60.702,61.25,61.735,62.188,62.26,62.27,62.646,62.406,62.443,62.941,61.454,60.417,65.617
+Afghanistan,AFG,"Mortality rate, under-5 (per 1000 live births)",SP.DYN.CDRT.IN,8.402,8.032,7.822,7.597,7.511,7.528,7.32,7.315,7.271,7.064,7.565,8.002,5.993
+Burundi,BDI,Incidence of tuberculosis (per 100000),SH.TBS.INCD,154.0,148.0,142.0,136.0,130.0,124.0,118.0,112.0,106.0,102.0,97.0,93.0,89.0
+Burundi,BDI,Life expectancy at birth (years),SP.DYN.LE00.IN,57.088,57.804,58.501,59.179,59.764,60.107,60.789,61.345,61.806,62.18,62.569,62.101,62.882
+Burundi,BDI,"Mortality rate, under-5 (per 1000 live births)",SP.DYN.CDRT.IN,10.509,10.072,9.601,9.201,8.845,8.688,8.209,7.864,7.559,7.394,7.191,7.306,6.997
+"Congo, Dem. Rep.",COD,Incidence of tuberculosis (per 100000),SH.TBS.INCD,500.0,490.0,480.0,471.0,461.0,452.0,443.0,434.0,426.0,417.0,409.0,401.0,392.0
+"Congo, Dem. Rep.",COD,Life expectancy at birth (years),SP.DYN.LE00.IN,56.411,56.911,57.35,57.795,58.236,58.658,59.081,59.495,59.926,60.242,60.428,60.044,60.979
+"Congo, Dem. Rep.",COD,"Mortality rate, under-5 (per 1000 live births)",SP.DYN.CDRT.IN,11.654,11.367,11.113,10.844,10.595,10.349,10.076,9.867,9.647,9.46,9.31,9.38,8.93
+Ethiopia,ETH,Incidence of tuberculosis (per 100000),SH.TBS.INCD,269.0,253.0,238.0,224.0,211.0,200.0,189.0,179.0,170.0,163.0,156.0,151.0,146.0
+Ethiopia,ETH,Life expectancy at birth (years),SP.DYN.LE00.IN,59.709,60.595,61.443,62.161,62.927,63.592,64.162,64.766,65.257,65.741,65.969,65.33,66.897
+Ethiopia,ETH,"Mortality rate, under-5 (per 1000 live births)",SP.DYN.CDRT.IN,8.98,8.534,8.118,7.78,7.461,7.206,6.999,6.786,6.631,6.481,6.403,6.638,6.093
+Kenya,KEN,Incidence of tuberculosis (per 100000),SH.TBS.INCD,531.0,506.0,471.0,443.0,423.0,380.0,348.0,319.0,292.0,267.0,248.0,247.0,238.0
+Kenya,KEN,Life expectancy at birth (years),SP.DYN.LE00.IN,60.915,61.283,61.537,61.729,61.99,62.279,62.526,62.725,62.825,62.939,61.596,61.225,63.549
+Kenya,KEN,"Mortality rate, under-5 (per 1000 live births)",SP.DYN.CDRT.IN,7.424,7.275,7.208,7.175,7.149,7.14,7.169,7.126,7.186,7.294,7.937,8.124,7.212
+Mozambique,MOZ,Incidence of tuberculosis (per 100000),SH.TBS.INCD,357.0,359.0,361.0,361.0,361.0,361.0,361.0,361.0,361.0,361.0,361.0,361.0,361.0
+Mozambique,MOZ,Life expectancy at birth (years),SP.DYN.LE00.IN,55.04,55.733,56.46,57.189,57.965,58.711,59.455,60.148,60.79,61.306,61.39,60.268,63.011
+Mozambique,MOZ,"Mortality rate, under-5 (per 1000 live births)",SP.DYN.CDRT.IN,11.543,11.108,10.665,10.233,9.779,9.371,8.984,8.633,8.324,8.078,8.007,8.403,7.255
+Myanmar,MMR,Incidence of tuberculosis (per 100000),SH.TBS.INCD,500.0,476.0,453.0,431.0,411.0,391.0,372.0,355.0,338.0,322.0,316.0,353.0,434.0
+Myanmar,MMR,Life expectancy at birth (years),SP.DYN.LE00.IN,63.479,63.859,64.251,64.617,64.994,65.288,65.64,65.909,66.232,66.457,66.612,65.553,66.506
+Myanmar,MMR,"Mortality rate, under-5 (per 1000 live births)",SP.DYN.CDRT.IN,9.212,9.125,9.043,8.982,8.92,8.904,8.861,8.855,8.827,8.847,8.994,9.819,9.18
+Nigeria,NGA,Incidence of tuberculosis (per 100000),SH.TBS.INCD,219.0,219.0,219.0,219.0,219.0,219.0,219.0,219.0,219.0,219.0,219.0,219.0,219.0
+Nigeria,NGA,Life expectancy at birth (years),SP.DYN.LE00.IN,51.315,51.49,51.688,51.827,51.94,51.939,52.189,52.397,52.669,53.009,53.072,53.455,54.079
+Nigeria,NGA,"Mortality rate, under-5 (per 1000 live births)",SP.DYN.CDRT.IN,14.36,14.203,14.019,13.864,13.736,13.656,13.408,13.192,12.952,12.679,12.586,12.306,11.953
+Pakistan,PAK,Incidence of tuberculosis (per 100000),SH.TBS.INCD,276.0,276.0,276.0,275.0,270.0,270.0,268.0,267.0,265.0,263.0,260.0,270.0,275.0
+Pakistan,PAK,Life expectancy at birth (years),SP.DYN.LE00.IN,64.378,64.659,64.883,65.129,65.374,65.641,65.943,66.223,66.481,66.729,65.701,65.773,67.417
+Pakistan,PAK,"Mortality rate, under-5 (per 1000 live births)",SP.DYN.CDRT.IN,7.691,7.575,7.482,7.377,7.272,7.164,7.039,6.94,6.852,6.772,7.301,7.23,6.513
+Rwanda,RWA,Incidence of tuberculosis (per 100000),SH.TBS.INCD,82.0,76.0,72.0,70.0,68.0,66.0,65.0,65.0,64.0,63.0,63.0,63.0,62.0
+Rwanda,RWA,Life expectancy at birth (years),SP.DYN.LE00.IN,62.804,63.476,64.189,64.651,65.088,65.419,65.733,66.14,66.354,66.691,66.953,66.85,67.528
+Rwanda,RWA,"Mortality rate, under-5 (per 1000 live births)",SP.DYN.CDRT.IN,7.347,7.043,6.759,6.598,6.478,6.401,6.336,6.234,6.206,6.132,6.089,6.185,5.993
+"Somalia, Fed. Rep.",SOM,Incidence of tuberculosis (per 100000),SH.TBS.INCD,220.0,204.0,192.0,187.0,188.0,187.0,184.0,182.0,179.0,175.0,171.0,167.0,162.0
+"Somalia, Fed. Rep.",SOM,Life expectancy at birth (years),SP.DYN.LE00.IN,48.9,32.453,49.138,54.016,54.442,55.056,55.283,52.19,54.767,57.249,57.095,55.703,53.931
+"Somalia, Fed. Rep.",SOM,"Mortality rate, under-5 (per 1000 live births)",SP.DYN.CDRT.IN,16.617,32.124,16.102,12.893,12.637,12.292,12.054,14.073,12.391,10.908,10.834,11.3,12.812
+Syrian Arab Republic,SYR,Incidence of tuberculosis (per 100000),SH.TBS.INCD,30.0,29.0,24.0,23.0,31.0,26.0,27.0,24.0,22.0,21.0,20.0,24.0,22.0
+Syrian Arab Republic,SYR,Life expectancy at birth (years),SP.DYN.LE00.IN,73.542,72.259,66.206,65.146,65.492,63.265,65.19,65.651,67.371,70.97,71.944,72.418,72.79
+Syrian Arab Republic,SYR,"Mortality rate, under-5 (per 1000 live births)",SP.DYN.CDRT.IN,3.824,4.334,6.829,7.514,7.353,8.223,7.323,7.246,6.544,5.284,5.058,4.964,4.773
+Uganda,UGA,Incidence of tuberculosis (per 100000),SH.TBS.INCD,210.0,207.0,205.0,203.0,202.0,202.0,201.0,201.0,200.0,200.0,199.0,199.0,198.0
+Uganda,UGA,Life expectancy at birth (years),SP.DYN.LE00.IN,59.959,60.791,61.579,62.353,63.057,63.831,64.494,65.174,65.775,66.354,66.41,66.45,67.675
+Uganda,UGA,"Mortality rate, under-5 (per 1000 live births)",SP.DYN.CDRT.IN,8.263,7.824,7.419,7.038,6.699,6.372,6.073,5.82,5.613,5.42,5.373,5.339,5.035
+"Yemen, Rep.",YEM,Incidence of tuberculosis (per 100000),SH.TBS.INCD,45.0,42.0,47.0,48.0,43.0,33.0,40.0,40.0,39.0,39.0,33.0,34.0,36.0
+"Yemen, Rep.",YEM,Life expectancy at birth (years),SP.DYN.LE00.IN,67.223,67.412,67.569,67.961,68.003,66.761,67.105,67.12,65.915,66.567,66.435,66.019,67.952
+"Yemen, Rep.",YEM,"Mortality rate, under-5 (per 1000 live births)",SP.DYN.CDRT.IN,5.586,5.474,5.425,5.294,5.29,5.773,5.647,5.644,6.114,5.859,5.832,5.953,5.232
+Zimbabwe,ZWE,Incidence of tuberculosis (per 100000),SH.TBS.INCD,416.0,384.0,355.0,304.0,278.0,242.0,233.0,221.0,210.0,199.0,189.0,198.0,209.0
+Zimbabwe,ZWE,Life expectancy at birth (years),SP.DYN.LE00.IN,51.925,53.911,55.386,56.842,58.106,58.989,59.76,60.263,60.906,61.06,61.53,60.135,62.36
+Zimbabwe,ZWE,"Mortality rate, under-5 (per 1000 live births)",SP.DYN.CDRT.IN,12.745,11.694,10.946,10.233,9.621,9.18,8.816,8.587,8.321,8.281,8.138,8.782,7.779

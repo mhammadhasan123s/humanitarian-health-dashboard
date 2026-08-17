@@ -1,0 +1,16 @@
+country_id,country_code,country_name,region
+1,BDI,Burundi,East Africa
+2,ETH,Ethiopia,East Africa
+3,KEN,Kenya,East Africa
+4,RWA,Rwanda,East Africa
+5,UGA,Uganda,East Africa
+6,SYR,Syrian Arab Republic,Middle East
+7,AFG,Afghanistan,South Asia
+8,PAK,Pakistan,South Asia
+9,MMR,Myanmar,Southeast Asia
+10,MOZ,Mozambique,Southern Africa
+11,ZWE,Zimbabwe,Southern Africa
+12,COD,"Congo, Dem. Rep.",Sub-Saharan Africa
+13,NGA,Nigeria,West Africa
+14,SOM,"Somalia, Fed. Rep.",
+15,YEM,"Yemen, Rep.",
